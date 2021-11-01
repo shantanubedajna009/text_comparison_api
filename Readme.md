@@ -1,0 +1,1 @@
+Simple Text Comparison API with NLP
